@@ -6,7 +6,7 @@ npm i
 ```
 
 ```
-spm run start:dev
+npm run start:dev
 ```
 
 ## commands
