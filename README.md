@@ -1,5 +1,14 @@
 # Trie
 
+## run app
+```
+npm i
+```
+
+```
+spm run start:dev
+```
+
 ## commands
 
 ```
